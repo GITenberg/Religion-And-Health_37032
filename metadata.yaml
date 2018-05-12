@@ -1,0 +1,40 @@
+_repo: Religion-And-Health_37032
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walsh, James J. (James Joseph)
+    aliases:
+    - Walsh, James Joseph
+    - Walsh, J. J. (James Joseph)
+    birthdate: 1865
+    deathdate: 1942
+    gutenberg_agent_id: '36672'
+    url: http://www.gutenberg.org/2009/agents/36672
+    wikipedia: http://en.wikipedia.org/wiki/James_Joseph_Walsh
+description: Cover; Title Page; Copyright; Table of Contents; Introduction; Can We
+  Still Believe?; Prayer; Sacrifice; Charity; Fasting and Abstinence; Holydays and
+  Holidays; Recreation and Dissipation; Mortification; Excesses; Purity; Insanity;
+  Nervous Disease; Dreads; Sufferings; Pain; Suicide and Homicide; Longevity; The
+  Bible and Health; Health and Religion.
+gutenberg_issued: '2011-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37032'
+  lccn: '20021211'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'Health -- Religious aspects'
+tableOfContents: Introduction -- Can we still believe? -- Prayer -- Sacrifice -- Charity
+  -- Fasting and abstinence -- Holydays and holidays -- Recreation and dissipation
+  -- Mortification -- Excesses -- Purity -- Insanity -- Nervous disease -- Dreads
+  -- Suffering -- Pain -- Suicide and homicide -- Longevity -- The Bible and health
+  -- Health and religion.
+title: Religion And Health
+url: http://www.gutenberg.org/ebooks/37032
